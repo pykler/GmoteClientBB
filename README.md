@@ -1,0 +1,4 @@
+GmoteClientBB
+=============
+
+Blackberry Gmote Client
